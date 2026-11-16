@@ -1,0 +1,44 @@
+body {
+  background-color: pink;
+}
+
+.blog-post-card {
+  background-color: white;
+  border-radius: 10px;
+  width: 350px;
+  text-align: center;
+}
+
+ .post-img {
+  width: 350px;
+  border-bottom: 5px solid hotpink;
+ }
+
+ .post-content {
+  padding: 5px;
+ }
+
+ .post-title {
+  color: green;
+  margin: 10px;
+ }
+
+ .post-excerpt {
+  color: brown;
+  margin: 15px;
+ }
+
+ .read-more {
+  color: black;
+  background-color: hotpink;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 10px;
+  display: inline-block;
+  width: 27%;
+  height: 20%;
+ }
+
+ .read-more:hover {
+  background-color: pink;
+ }
